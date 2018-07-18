@@ -11,7 +11,9 @@ public class Solution {
      *            和0交换的数
      */
     // 不要修改以下函数内容
+
     public void swapWithZero(int[] array, int len, int n) {
+
 
     }
     // 不要修改以上函数内容
